@@ -1,1 +1,1 @@
-Python Learning for newbies.
+This is Python Learning test repository for newbies.
